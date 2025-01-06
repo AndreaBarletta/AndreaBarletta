@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Andrea and I'm an HPC student in PoliMI</p>
+<p align="left">My name is Andrea and I'm an HPC student at PoliMI</p>
 
 ###
 
